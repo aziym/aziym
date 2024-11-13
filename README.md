@@ -13,6 +13,10 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/aziym/aziym/output/snake.svg" alt="Snake animation" />
+
+###
+
 <h3 align="left">Frontend</h3>
 
 ###
