@@ -58,3 +58,14 @@
 </div>
 
 ###
+
+<h3 align="left">Contact Me</h3>
+
+###
+
+<div align="left">
+  <img src="[https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg](https://www.linkedin.com/in/muhamad-azim-bin-m-bakri?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4%2FxmzsmSQB2jaeFpZ%2FzgAw%3D%3D)" width="52" height="40" alt="linkedin logo"  />
+  <img src="mailto:azim.bakri2002@gmail.com" width="52" height="40" alt="gmail logo"  />
+</div>
+
+###
