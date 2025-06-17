@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">💻- Currently a Computer Science (Software Engineering) Student at University Malaysia Pahang Al-Sultan Abdullah (UMPSA)<br>🏢 - Seeking an job placement after the internship (August 2025)<br><br><br>I'm a Bachelor of Computer Science (Software Engineering) student and surviving mostly on code and caffeine.  I'm a software engineering student with a strong interest in ERP systems, especially SAP. <br><br>💅🏽 It’s like my inner techie meets corporate superhero. I’m out here trying to figure out how to automate business processes, all while hoping my code doesn’t break. It’s all about finding that balance between debugging JavaScript and pretending I know how SAP works (spoiler: I do... sometimes)</p>
+<p align="left">💻- Currently a Computer Science (Software Engineering) Student at University Malaysia Pahang Al-Sultan Abdullah (UMPSA)<br>🏢 - Seeking job placement after the internship (August 2025)<br><br><br>I'm a Bachelor of Computer Science (Software Engineering) student and surviving mostly on code and caffeine.  I'm a software engineering student with a strong interest in ERP systems, especially SAP. <br><br>💅🏽 It’s like my inner techie meets corporate superhero. I’m out here trying to figure out how to automate business processes, all while hoping my code doesn’t break. It’s all about finding that balance between debugging JavaScript and pretending I know how SAP works (spoiler: I do... sometimes)</p>
 
 ###
 
