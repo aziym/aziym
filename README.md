@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">💻- Currently a Computer Science (Software Engineering) Student at University Malaysia Pahang Al-Sultan Abdullah (UMPSA)<br>🏢 - Seeking job placement after the internship (August 2025)<br><br><br>I'm a Bachelor of Computer Science (Software Engineering) student and surviving mostly on code and caffeine.  I'm a software engineering student with a strong interest in ERP systems, especially SAP. <br><br>💅🏽 It’s like my inner techie meets corporate superhero. I’m out here trying to figure out how to automate business processes, all while hoping my code doesn’t break. It’s all about finding that balance between debugging JavaScript and pretending I know how SAP works (spoiler: I do... sometimes)</p>
+<p align="left">💼 - SAP Business One Technical Consultant<br>🎓 - Bachelor of Computer Science (Software Engineering), University Malaysia Pahang Al-Sultan Abdullah (UMPSA)<br><br><br>SAP Technical Consultant with experience in SAP Business One implementation, customisation, and technical support. Skilled in SAP Business One SDK, Crystal Reports, SAP HANA, Microsoft SQL Server, stored procedures, and e-Invoicing solutions. Experienced in system development, troubleshooting, report customisation, and supporting end-to-end SAP projects. <br><br>💅🏽 It’s like my inner techie meets corporate superhero. I’m out here trying to figure out how to automate business processes, all while hoping my code doesn’t break. It’s all about finding that balance between debugging stored procedures and pretending I know how SAP works (spoiler: I do... sometimes)</p>
 
 ###
 
@@ -14,6 +14,38 @@
 ###
 
 <img src="https://raw.githubusercontent.com/aziym/aziym/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h3 align="left">ERP / SAP Business One</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dotnet logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="mssql logo"  />
+</div>
+
+###
+
+<h3 align="left">Backend</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+</div>
 
 ###
 
@@ -39,24 +71,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
-</div>
-
-###
-
-<h3 align="left">Backend</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
 </div>
 
 ###
@@ -95,5 +109,4 @@
 </div>
 
 ###
-
 
